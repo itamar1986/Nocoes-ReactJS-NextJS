@@ -18,6 +18,7 @@
 <p align="justify">
 Projeto de aperfeiçoamento da Skylab - Starter - ReactJS (Rocketseat).
 Foram revisados os principais conteúdo de ReactJS:
+</p>
 :heavy_check_mark: O que é ReactJS?
 :heavy_check_mark: Criando projeto;
 :heavy_check_mark: O que são componentes?
@@ -28,7 +29,6 @@ Foram revisados os principais conteúdo de ReactJS:
 :heavy_check_mark: Página anterior/próxima;
 :heavy_check_mark: Configurando navegação;
 :heavy_check_mark: Navegando pro detalhe;
-</p>
 
 ## Instalações e Dependências
 
