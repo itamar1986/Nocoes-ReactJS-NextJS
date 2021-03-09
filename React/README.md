@@ -19,15 +19,25 @@
 Projeto de aperfeiçoamento da Skylab - Starter - ReactJS (Rocketseat).
 Foram revisados os principais conteúdo de ReactJS:
 </p>
+
 :heavy_check_mark: O que é ReactJS?
+
 :heavy_check_mark: Criando projeto;
+
 :heavy_check_mark: O que são componentes?
+
 :heavy_check_mark: Criando Header;
+
 :heavy_check_mark: Buscando produtos da API;
+
 :heavy_check_mark: Armazenando no estado;
+
 :heavy_check_mark: Listando produtos;
+
 :heavy_check_mark: Página anterior/próxima;
+
 :heavy_check_mark: Configurando navegação;
+
 :heavy_check_mark: Navegando pro detalhe;
 
 ## Instalações e Dependências
@@ -54,6 +64,7 @@ Foram revisados os principais conteúdo de ReactJS:
 No terminal dentro da pasta do projeto, executa a linha de comando npm start.<br>
 </p>
 
+![react](https://user-images.githubusercontent.com/54650669/110406976-d5146a00-8061-11eb-8cbf-a94794ec1f41.gif)
 
 
 ## Desenvolvedores/Contribuintes :octocat:
