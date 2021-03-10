@@ -1,7 +1,7 @@
 <h1>Noções de NextJS</h1> 
 
 <p align="center">
-  
+  <img src="https://img.shields.io/static/v1?label=Linguagem&message=next.JS&color=black&style=for-the-badge&logo=NEXTJS"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
