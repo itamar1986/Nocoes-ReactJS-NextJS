@@ -13,6 +13,8 @@
 
 :small_blue_diamond: [Vídeo do projeto](#vídeo-do-projeto)
 
+:small_blue_diamond: [Documentação](#documentação)
+
 ## Descrição do projeto 
 
 <p align="justify">
@@ -30,6 +32,15 @@ Curso basico de NextJS da plataforma Rocketseat, séries bonus / gostack 12. For
 ## Instalações e Dependências
 
 :boom: 
+- yarn create next-app curso-next -> Criando as pastas
+- yarn add typescript @types/react @types/node -D
+- yarn dev -> rodar o servidor
+ http://localhost:3000 -> Endereço do servidor
+ - yarn add styled-components
+- yarn add @types/styled-components -D
+- yarn add babel-plugin-styled-components -D
+npx json-server server.json -p 3333 -w
+
 
 ## Vídeo do projeto
 
@@ -39,6 +50,19 @@ No terminal dentro da pasta do projeto, executa a linha de comando yarn dev.<br>
 
 ![NextJS](https://user-images.githubusercontent.com/54650669/110411061-a9e14900-8068-11eb-88c8-f89033207dc9.gif)
 
+## Documentação
+
+> <a href="https://vercel.com/solutions/nextjs" target="_blank">Next.js</a>
+
+> <a href="https://styled-components.com/docs/advanced#server-side-rendering" target="_blank">Styled Components</a>
+
+> <a href="https://github.com/vercel/next.js/tree/master/examples/with-styled-components" target="_blank">Exemplo com componentes estilizados</a>
+
+> <a href="https://gist.github.com/diego3g/fa876d6f954390c656e490e538e8953f" target="_blank">Metadatas do curso de Next.js</a>
+
+> <a href="https://dev-one-commerce.prismic.io/documents/working~l=pt-br/" target="_blank">prismic</a>
+
+> <a href="https://nextjs.org/learn/basics/create-nextjs-app" target="_blank">Crie um aplicativo Next.js</a>
 
 ## Desenvolvedores/Contribuintes :octocat:
 
