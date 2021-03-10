@@ -16,10 +16,16 @@
 ## Descrição do projeto 
 
 <p align="justify">
-
+Curso basico de NextJS da plataforma Rocketseat, séries bonus / gostack 12. Foram apresentados os principais conteúdo de NextJS:
 </p>
 
-:heavy_check_mark:
+:heavy_check_mark: Em Fundamentos do Next.js, temos a introdução ao Next.js, a utilização do TypeScript, as páginas e rotas, as rotas dinâmicas e Styled Components.
+
+:heavy_check_mark: Em Lidando com dados, podemos utilizar um servidor fake, temos o Server Side Rendering, que é Browser ↔ Next ↔ Back-end, o Static Site Generation, as páginas estáticas dinâmicas e o Incremental Static Generation.
+
+:heavy_check_mark: Em Preparando para produção, temos a página 404 customizada, a utilização do import dinâmico, o Lazy load de componentes, as variáveis de ambiente, os Paths no TypeScript, a criação de componente de SEO e a criação de documento customizado.
+
+:heavy_check_mark: Em Usando CMS e produção, temos as opções de CMS (Sistema de Gestão de Conteúdo), que permite criar, organize, publique e apague conteúdos do site. A configurando Prismic, a utilização SDK, a página de categorias, a página de produto, a página de busca e o envio pra produção.
 
 ## Instalações e Dependências
 
