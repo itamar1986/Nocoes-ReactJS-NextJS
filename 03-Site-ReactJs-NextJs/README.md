@@ -1,4 +1,4 @@
-<h1>Criando site com noções de React e NextJS</h1> 
+<h1 align="center">Criando site com noções de React e NextJS</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Linguagem&message=react.JS&color=blue&style=for-the-badge&logo=REACTJS"/>
@@ -6,13 +6,11 @@
   <img src="https://img.shields.io/static/v1?label=Linguagem&message=next.JS&color=black&style=for-the-badge&logo=NEXTJS"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (em construção)
+> Status do Projeto: :warning: (em construção)
 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Instalações e Dependências](#instalações-e-dependências)
 
 :small_blue_diamond: [Imagem e Vídeo do projeto](#imagem-e-vídeo-do-projeto)
 

@@ -1,4 +1,4 @@
-<h1>Desenvolvimento do back-end</h1> 
+<h1 align="center">Desenvolvimento do back-end</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Linguagem&message=react.JS&color=blue&style=for-the-badge&logo=REACTJS"/>
@@ -17,7 +17,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Montagem da estrutura do front-end.
+Montagem da estrutura do back-end.
 </p>
 
 ## Instalações e Dependências

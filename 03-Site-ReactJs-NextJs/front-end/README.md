@@ -1,4 +1,4 @@
-<h1>Desenvolvimento do front-end</h1> 
+<h1 align="center">Desenvolvimento do front-end</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Linguagem&message=react.JS&color=blue&style=for-the-badge&logo=REACTJS"/>
